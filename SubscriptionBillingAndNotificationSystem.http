@@ -1,0 +1,6 @@
+@SubscriptionBillingAndNotificationSystem_HostAddress = http://localhost:5224
+
+GET {{SubscriptionBillingAndNotificationSystem_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
