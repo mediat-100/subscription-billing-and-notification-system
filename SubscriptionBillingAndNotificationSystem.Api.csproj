@@ -15,7 +15,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\SubscriptionBillingAndNotificationSystem.Core\SubscriptionBillingAndNotificationSystem.Core.csproj" />
+    <ProjectReference Include="..\SubscriptionBillingAndNotificationSystem\SubscriptionBillingAndNotificationSystem.Core\SubscriptionBillingAndNotificationSystem.Core.csproj" />
   </ItemGroup>
 
 </Project>
